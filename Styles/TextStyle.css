@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    background-image: url("Images/pexels-photo-985287.jpeg");
+    & #Tag-div{
+       margin-left: 500px;
+        background: cadetblue;
+        opacity: 0.8;
+        width: 1000px;
+        height: 900px;
+        align-items: center;
+        & pre{
+            opacity: 1;
+            color: black;
+            font-size: 15px;
+        }
+
+    }
+}

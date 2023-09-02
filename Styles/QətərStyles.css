@@ -1,0 +1,44 @@
+body{
+    background-size: cover ;
+    background-image: url("Images/fifawordcup.jpg");
+
+}
+
+
+.ftop-style{
+    color: black;
+    margin-left: 830px;
+    list-style-position: inside;
+    list-style-image: url("Images/football.png");
+    & a{
+        color: black;
+    }
+    & #QətərİD{
+        list-style-image: url("Images/qatar.png");
+    }
+    & #EkvadorİD{
+        list-style-image: url("Images/ecuador.png");
+    }
+    & #SeneqalİD{
+        list-style-image: url("Images/senegal.png");
+    }
+    & #NiderlandİD{
+        list-style-image: url("Images/netherlands.png");
+    }
+    & #İngiltərəİD{
+        list-style-image: url("Images/united-kingdom.png");
+    }
+    & #İranİD{
+        list-style-image: url("Images/iran.png");
+    }
+    & #ABŞİD{
+        list-style-image: url("Images/united-states.png");
+    }
+    & #UelsİD{
+        list-style-image: url("Images/wales.png");
+    }
+    & #ArgentinaİD{
+        list-style-image: url("Images/argentina.png");
+    }
+
+}
