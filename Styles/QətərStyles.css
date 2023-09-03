@@ -1,17 +1,20 @@
 body{
     background-size: cover ;
+    background-attachment: fixed;
     background-image: url("Images/fifawordcup.jpg");
 
 }
 
 
 .ftop-style{
-    color: black;
-    margin-left: 830px;
+    color: white;
+    margin-left: 0;
     list-style-position: inside;
     list-style-image: url("Images/football.png");
+
     & a{
-        color: black;
+        color: white;
+        text-decoration: none;
     }
     & #QətərİD{
         list-style-image: url("Images/qatar.png");
@@ -60,6 +63,58 @@ body{
     }
     & #TunisİD {
         list-style-image: url("Images/Tunisian.png");
+    }
+    & #SpainID{
+        list-style-image: url("Images/Spanish.png");
+    }
+    & #CostaID{
+        list-style-image: url("Images/costa-rica.png");
+    }
+    & #GermanyID{
+        list-style-image: url("Images/germany.png");
+    }
+    & #JapanID{
+        list-style-image: url("Images/japanese.png");
+    }
+    & #BelgiumID{
+        list-style-image: url("Images/belgium.png");
+    }
+    & #BelgiumID{
+        list-style-image: url("Images/belgium.png");
+    }
+
+    & #CanadaID{
+        list-style-image: url("Images/canada.png");
+    }
+    & #MoroccoID{
+        list-style-image: url("Images/morocco.png");
+    }
+    & #CroatiaID{
+        list-style-image: url("Images/Croatia.png");
+    }
+    & #BrazilID{
+        list-style-image: url("Images/brazil.png");
+    }
+    & #SerbiaID{
+        list-style-image: url("Images/Serbian.png");
+    }
+    & #SwitzerlandID{
+        list-style-image: url("Images/switzerland.png");
+    }
+    & #CameroonID{
+        list-style-image: url("Images/cameroon.png");
+    }
+    & #PortugalID{
+        list-style-image: url("Images/portugal.png");
+    }
+    & #GhanaID{
+        list-style-image: url("Images/ghana.png");
+    }
+    & #UruguayID{
+        list-style-image: url("Images/uruguay.png");
+    }
+    & #KoreaID{
+        list-style-image: url("Images/south-korea.png");
     }
 
 }
