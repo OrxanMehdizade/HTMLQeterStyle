@@ -40,5 +40,26 @@ body{
     & #ArgentinaİD{
         list-style-image: url("Images/argentina.png");
     }
+    & #SəudiyyəİD {
+        list-style-image: url("Images/saudi-arabia.png");
+    }
+    & #MeksikaİD {
+        list-style-image: url("Images/mexico.png");
+    }
+    & #PolşaİD {
+        list-style-image: url("Images/flag.png");
+    }
+    & #FransaİD {
+        list-style-image: url("Images/france.png");
+    }
+    & #AvstraliyaİD {
+        list-style-image: url("Images/australia.png");
+    }
+    & #DanimarkaİD {
+        list-style-image: url("Images/danimarka.png");
+    }
+    & #TunisİD {
+        list-style-image: url("Images/Tunisian.png");
+    }
 
 }

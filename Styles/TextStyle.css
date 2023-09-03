@@ -1,5 +1,7 @@
 body{
     background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
     background-image: url("Images/pexels-photo-985287.jpeg");
     & #Tag-div{
        margin-left: 500px;
